@@ -1,0 +1,9 @@
+- try biais correction with AIF360 library
+
+- change cnn architecture
+
+- do a mix of several models 
+
+- train an encoder and predict on mix of encoded data and cnn encoding because cnn only looks labels but encoder learns all directly from the image
+
+- external data forbidden but data augmentation ?
