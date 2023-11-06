@@ -7,3 +7,5 @@
 - fit a AE and use his latent space, add fuly connected layer and a layers with 6 neurons for classificiation
 
 - test vae
+
+- use impact remover allways for classifier (even if latent space used from AE)
