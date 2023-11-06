@@ -1,0 +1,5 @@
+find a ae or vae without deconv (convTranspose) --> checkerboard artifacts
+replace deconv by upsample + conv (for learn sinon just resize the images without parameters)
+
+
+utils: https://distill.pub/2016/deconv-checkerboard/

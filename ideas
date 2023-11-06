@@ -1,9 +1,9 @@
-- try biais correction with AIF360 library
+- try biais correction with AIF360 library (disparateImpactRemover)
 
-- change cnn architecture
+- do a mix of several models (ensemble)
 
-- do a mix of several models 
+- external data forbidden but data augmentation ? ++++
 
-- train an encoder and predict on mix of encoded data and cnn encoding because cnn only looks labels but encoder learns all directly from the image
+- fit a AE and use his latent space, add fuly connected layer and a layers with 6 neurons for classificiation
 
-- external data forbidden but data augmentation ?
+- test vae
