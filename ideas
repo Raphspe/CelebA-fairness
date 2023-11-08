@@ -2,10 +2,12 @@
 
 - do a mix of several models (ensemble)
 
-- external data forbidden but data augmentation ? ++++
+- external data forbidden but data augmentation ?
 
 - fit a AE and use his latent space, add fuly connected layer and a layers with 6 neurons for classificiation
 
 - test vae
 
-- use impact remover allways for classifier (even if latent space used from AE)
+- use impact remover always for classifier (even if latent space used from AE)
+
+- why encoded data are so pixelated ?
